@@ -49,7 +49,7 @@ export default class App extends React.Component {
     }
   }
 
-
+//
   onTilePress = (row, col) => {
 
     //don't allow value to change
